@@ -757,4 +757,9 @@
     .murder-popup {
       padding: 32px 24px;
     }
+
+    .blood-overlay {
+      width: 100vw;
+      height: 110vh;
+   }
   }
