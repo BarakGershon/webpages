@@ -754,12 +754,6 @@
       padding: 80px 6%;
     }
 
-    .blood-overlay {
-      inset: -6vh -18vw;
-      width: 136vw;
-      height: 110vh;
-    }
-
     .murder-section.visible .blood-overlay {
       opacity: 0.36;
     }
