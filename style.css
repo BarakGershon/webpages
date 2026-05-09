@@ -759,7 +759,9 @@
     }
 
     .blood-overlay {
-      width: 100vw;
+      width: 110vw;
       height: 110vh;
    }
+   body {
+    overflow: hidden;
   }
